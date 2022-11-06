@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Salary {
+public enum Salary {
+    BIG, MEDIUM,SMALL
 }
